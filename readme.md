@@ -47,7 +47,6 @@ The model uses the following borrower and loan characteristics:
 
 * Gini Coefficient: 0.6703 (Strong model performance)
 
-ROC Curve
 
     
 ## 2.   Loss Given Default (LGD)
