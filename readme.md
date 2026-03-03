@@ -49,7 +49,6 @@ The model uses the following borrower and loan characteristics:
 
 ROC Curve
 
-Figure 1: ROC Curve showing model performance
     
 ## 2.   Loss Given Default (LGD)
 
